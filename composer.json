@@ -1,0 +1,6 @@
+{
+    "name": "convenient/composer-2-2-3-issue-10389-debug-a",
+    "bin": [
+        "script.sh"
+    ]
+}
